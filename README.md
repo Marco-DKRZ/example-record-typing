@@ -1,1 +1,1 @@
-# example-record-typing
+# Example Record Typing
